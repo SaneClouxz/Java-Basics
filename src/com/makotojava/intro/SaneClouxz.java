@@ -20,7 +20,7 @@ public class SaneClouxz {
 		username = user_input.next();
 		
 		int constant; 
-		constant = 273;
+		constant = 274;
 		
 		int tempKelvin;
 		tempKelvin = (tempCelsius + constant);
