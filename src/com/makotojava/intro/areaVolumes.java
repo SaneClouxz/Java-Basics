@@ -44,6 +44,8 @@ public class areaVolumes {
 //		double volume_cylinder;
 //		volume_cylinder = area_circle*Integer.parseInt(height);
 		
+		
+		//  hope to be able to get the object commented above to work in place of the lenghty formula parsed
 		int shape;
 		System.out.print("Enter 1 for circle, 2 for sphere, 3 for square or 4 for cylinder: ");
 		shape = user_input.nextInt();
